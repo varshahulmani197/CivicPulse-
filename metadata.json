@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse Bengaluru",
+  "description": "Community-driven urban micro-infrastructure monitoring platform empowering citizens and BBMP/BWSSB/BESCOM authorities across Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
